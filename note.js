@@ -181,3 +181,14 @@ fix the array so that China and Pakistan are added back into their respective pl
 
 //finally, notifying the customer
 // console.log("Total cost: " + fullPrice + ". It will arrive in " + shippingTime)
+
+// May 30th
+
+//template strings/literals
+// const recupient = "James"
+// const sender = "Mady"
+
+//use your sender variable instead of "Per"
+//Refactor the email string to use template strings
+// const email = 'Hey" ${recipient}! How is it going? Cheers ${sender}'
+// console.log(email)
