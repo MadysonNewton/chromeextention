@@ -195,3 +195,16 @@ fix the array so that China and Pakistan are added back into their respective pl
 
 //June 3rd
 
+// JSON.parse turns a string into array
+// JSON.stringify turns array into a string
+
+// 1. turn the myLeads string into an array
+// 2. push a new value to the array
+// 3. turn the array into a string again
+// 4. console.log the string using typeof to varify that it's a string
+
+// let myLeads = `["www.awesomelead.com"]`
+// myLeads = JSON.parse(myLeads)
+// myLeads.push("myLeads")
+// myLeads = JSON.stringify(myLeads)
+// console.log(typeof myLeads)
