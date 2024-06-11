@@ -208,3 +208,18 @@ fix the array so that China and Pakistan are added back into their respective pl
 // myLeads.push("myLeads")
 // myLeads = JSON.stringify(myLeads)
 // console.log(typeof myLeads)
+
+//May 10th
+
+// const credits = 0
+
+// if (credits > 0) {
+//     console.log("Let's play!")
+// } else {
+//     console.log("Sorry, you have no credits")
+// }
+
+//null -> how you as a developer signalize emptiness
+// undefined -> how JS signalizes emptiness
+//NaN ->(not a number)
+// When trying to find if true or false, use the if statement
