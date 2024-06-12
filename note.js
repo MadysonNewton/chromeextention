@@ -248,5 +248,7 @@ fix the array so that China and Pakistan are added back into their respective pl
 // console.log(firstCard)
 
 
-
 // call it with an array as an argument to verify that it works
+
+//June 12th
+// query is an object containing a set of key-value pairs representing the query parameters of the URL.
