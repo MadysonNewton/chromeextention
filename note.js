@@ -223,3 +223,30 @@ fix the array so that China and Pakistan are added back into their respective pl
 // undefined -> how JS signalizes emptiness
 //NaN ->(not a number)
 // When trying to find if true or false, use the if statement
+
+//May 11th
+
+// const welcomeEl = document.getElementById("welcome-el")
+// function greetUser(greeting, name, emoji) {
+//     welcomeEl.textContent = `${Greeting}, ${name} ${emoji}`
+// }
+// greetUser("Hello", "Mady")
+
+//create a function, add(), that adds 2 numbers together and returns the sum
+
+// function add(num1, num2) {
+//     return num1 + num2
+// }
+// console.log(add(3, 4) ) // should log 7
+// console.log(add(9, 102) ) //should log 111
+
+// Creat a function, getFirst(arr), that returns the first item in the array
+// function getFirst(arr) {
+//     return arr[0]
+// }
+// let firstCard = getFirst([10, 2, 5])
+// console.log(firstCard)
+
+
+
+// call it with an array as an argument to verify that it works
